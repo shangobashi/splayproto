@@ -1,0 +1,17 @@
+Documents/
+Splay_cloco/
+Splay_gemi/
+tmpclaude-*
+
+node_modules/
+.next/
+.env
+.env.local
+.env.*.local
+.venv/
+.data/
+.logs/
+dist/
+build/
+__pycache__/
+*.pyc

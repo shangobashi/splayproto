@@ -2,6 +2,7 @@ Documents/
 Splay_cloco/
 Splay_gemi/
 tmpclaude-*
+.vercel/
 
 node_modules/
 .next/
